@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-[ExecuteInEditMode]
 public class FollowOnSpline : MonoBehaviour
 {
     public Transform[] Points;
